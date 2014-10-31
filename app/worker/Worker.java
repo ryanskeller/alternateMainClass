@@ -5,6 +5,6 @@ package worker;
  */
 public class Worker {
     public static void main(String[] args) {
-        System.out.println("Stared Worker class: " + Worker.class.getName());
+        System.out.println("Started Worker class: " + Worker.class.getName());
     }
 }
